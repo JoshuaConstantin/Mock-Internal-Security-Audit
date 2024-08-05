@@ -225,8 +225,6 @@ This would complete my mock security audit writeup. I hope you find it helpful! 
 
 Self-Evaluation: I’m confident I identified the key controls and compliance needs for Botium Toys. The assignment was a great way to apply what I've learned.
 
-Lessons Learned:
-
-I struggled with providing detailed findings in the stakeholder memo. I worked hard to be clearer and more concise, using lists and proofreading my work.
+Lessons Learned: I struggled with providing detailed findings in the stakeholder memo. I worked hard to be clearer and more concise, using lists and proofreading my work.
 
 I also had difficulty explaining how the System and Organizations Controls standard impacts user access and overall data safety, beyond just financial aspects.
