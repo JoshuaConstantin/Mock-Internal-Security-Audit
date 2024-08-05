@@ -172,33 +172,46 @@ The audit focused on the following systems and controls:
   Areas of Evaluation: User permissions, implemented security controls, and adherence to regulatory compliance requirements including GDPR, PCI DSS, and SOC standards.
   Asset Inventory: Comprehensive review of technology and hardware assets, including both physical and digital resources.
 
-Audit Objectives:
+Audit Objectives
 
-  Align security practices with the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF).
-  Strengthen processes to ensure regulatory compliance.
-  Enhance system controls to mitigate identified risks.
-  Implement least privilege access controls and develop robust policies and procedures.
+   Align security practices with the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF).
+   Strengthen processes to ensure regulatory compliance.
+   Enhance system controls to mitigate identified risks.
+   Implement least privilege access controls and develop robust policies and procedures.
 
 Key Findings
 
-  - Critical Control Gaps:
+   Critical Control Gaps:
         Least Privilege & Separation of Duties: Current practices do not fully enforce the principle of least privilege and separation of duties, increasing the risk of unauthorized access and potential abuse.
-        Disaster Recovery Plans: Lack of comprehensive disaster recovery plans could lead to significant downtime and loss of data in the event of a system failure or incident.
-        Password & Access Control Policies: Existing policies are inadequate, exposing the organization to potential security breaches and unauthorized access.
-        Intrusion Detection System (IDS) & Encryption: Absence of a fully implemented IDS and encryption mechanisms for sensitive data could hinder the ability to detect and respond to intrusions effectively.
-        Backup & Antivirus Solutions: Current backup solutions and antivirus software need enhancement to ensure data integrity and protection against malware.
+        
+   Disaster Recovery Plans: Lack of comprehensive disaster recovery plans could lead to significant downtime and loss of data in the event of a system failure or incident.
+        
+   Password & Access Control Policies: Existing policies are inadequate, exposing the organization to potential security breaches and unauthorized access.
+        
+   Intrusion Detection System (IDS) & Encryption: Absence of a fully implemented IDS and encryption mechanisms for sensitive data could hinder the ability to detect and respond to intrusions effectively.
+        
+   Backup & Antivirus Solutions: Current backup solutions and antivirus software need enhancement to ensure data integrity and protection against malware.
 
-  - Physical Security Enhancements Needed:
-        CCTV & Locks: Inadequate physical security measures such as CCTV coverage and locking mechanisms for network gear require immediate attention to prevent unauthorized physical access.
+Physical Security Enhancements Needed:
+   CCTV & Locks: Inadequate physical security measures such as CCTV coverage and locking mechanisms for network gear require          immediate attention to prevent unauthorized physical access.
 
 Recommendations
 
-  - Immediate Action Items:
-        We’ve identified several key issues in our current security setup. First, we’re not fully applying the principles of least privilege and separation of duties, which means there’s a higher risk of unauthorized access and misuse. Also, our disaster recovery plans are lacking, leaving us vulnerable to significant downtime and data loss if something goes wrong. Our password and access control policies aren’t strong enough, putting us at risk of security breaches. We also don’t have a fully implemented Intrusion Detection System (IDS) or proper encryption for sensitive data, which limits our ability to spot and respond to threats. Lastly, our backup solutions and antivirus software need to be upgraded to better protect against data loss and malware.
+Immediate Action Items:
+   Implement Least Privilege & Separation of Duties: Enforce strict access controls to ensure employees and vendors have only the necessary permissions required for their roles.
+        
+   Develop and Implement Disaster Recovery Plans: Establish comprehensive disaster recovery procedures to ensure business continuity and minimize downtime in case of incidents.
+        
+   Revise Password & Access Control Policies: Update and enforce stronger password policies and access controls to enhance security and reduce the risk of unauthorized access.
+        
+   Integrate IDS and Encryption: Deploy an IDS to monitor and detect potential intrusions and implement encryption for sensitive data, including website transactions.
+        
+   Enhance Backup & Antivirus Solutions: Improve backup processes and ensure robust antivirus protection to safeguard against data loss and malware threats.
 
-  - Physical Security Improvements:
+   Physical Security Improvements:
         Install CCTV & Enhance Locking Mechanisms: Upgrade physical security measures by installing CCTV cameras and enhancing locking mechanisms for critical infrastructure.
-        Consider Additional Controls: Implement time-controlled safes, adequate lighting, and signage indicating alarm service providers to further bolster physical security.
+        
+   Consider Additional Controls: Implement time-controlled safes, adequate lighting, and signage indicating alarm service providers to further bolster physical security.
 
 # Conclusion <a name="conclusion">
 
