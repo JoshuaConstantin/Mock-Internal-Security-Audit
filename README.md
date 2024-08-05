@@ -198,6 +198,7 @@ Physical Security Enhancements Needed:
 Recommendations
 
 Immediate Action Items:
+
    Implement Least Privilege & Separation of Duties: Enforce strict access controls to ensure employees and vendors have only the necessary permissions required for their roles.
         
    Develop and Implement Disaster Recovery Plans: Establish comprehensive disaster recovery procedures to ensure business continuity and minimize downtime in case of incidents.
