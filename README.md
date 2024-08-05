@@ -194,11 +194,7 @@ Key Findings
 Recommendations
 
   - Immediate Action Items:
-        Implement Least Privilege & Separation of Duties: Enforce strict access controls to ensure employees and vendors have only the necessary permissions required for their roles.
-        Develop and Implement Disaster Recovery Plans: Establish comprehensive disaster recovery procedures to ensure business continuity and minimize downtime in case of incidents.
-        Revise Password & Access Control Policies: Update and enforce stronger password policies and access controls to enhance security and reduce the risk of unauthorized access.
-        Integrate IDS and Encryption: Deploy an IDS to monitor and detect potential intrusions and implement encryption for sensitive data, including website transactions.
-        Enhance Backup & Antivirus Solutions: Improve backup processes and ensure robust antivirus protection to safeguard against data loss and malware threats.
+        We’ve identified several key issues in our current security setup. First, we’re not fully applying the principles of least privilege and separation of duties, which means there’s a higher risk of unauthorized access and misuse. Also, our disaster recovery plans are lacking, leaving us vulnerable to significant downtime and data loss if something goes wrong. Our password and access control policies aren’t strong enough, putting us at risk of security breaches. We also don’t have a fully implemented Intrusion Detection System (IDS) or proper encryption for sensitive data, which limits our ability to spot and respond to threats. Lastly, our backup solutions and antivirus software need to be upgraded to better protect against data loss and malware.
 
   - Physical Security Improvements:
         Install CCTV & Enhance Locking Mechanisms: Upgrade physical security measures by installing CCTV cameras and enhancing locking mechanisms for critical infrastructure.
