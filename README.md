@@ -8,7 +8,8 @@
 4. [Controls Assessment](#control-assessment)
 5. [Compliance Checklist](#compliance-checklist)
 6. [Stakeholder Memorandum](#stakeholder-memo)
-7. [Conclusion](#conclusion)
+7. [Recommendations](#recommendations)
+8. [Conclusion](#conclusion)
 
 -------
 
@@ -195,7 +196,7 @@ Key Findings
 Physical Security Enhancements Needed:
    CCTV & Locks: Inadequate physical security measures such as CCTV coverage and locking mechanisms for network gear require          immediate attention to prevent unauthorized physical access.
 
-Recommendations
+# Recommendations <a name="recommendations">
 
 Immediate Action Items:
 
