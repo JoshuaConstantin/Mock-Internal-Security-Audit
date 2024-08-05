@@ -204,7 +204,7 @@ Recommendations
         Install CCTV & Enhance Locking Mechanisms: Upgrade physical security measures by installing CCTV cameras and enhancing locking mechanisms for critical infrastructure.
         Consider Additional Controls: Implement time-controlled safes, adequate lighting, and signage indicating alarm service providers to further bolster physical security.
 
-Conclusion:
+# Conclusion <a name="conclusion">
 
 The findings of this audit highlight several critical areas requiring immediate attention to strengthen Botium Toys’ security posture and compliance. Implementing the recommendations will not only address the current vulnerabilities but also enhance the overall resilience of the organization against potential threats.
 
